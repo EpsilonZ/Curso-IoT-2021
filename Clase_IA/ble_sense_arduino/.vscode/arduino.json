@@ -1,0 +1,6 @@
+{
+    "board": "arduino:mbed:nano33ble",
+    "programmer": "AVRISP mkII",
+    "sketch": "ble_sense_arduino.ino",
+    "port": "/dev/ttyACM0"
+}
